@@ -12,7 +12,7 @@
 		<link>
 			<name>githubconfig</name>
 			<type>2</type>
-			<locationURI>PARENT-2-PROJECT_LOC/githubconfig</locationURI>
+			<location>C:/amsankar/githubconfig</location>
 		</link>
 	</linkedResources>
 </projectDescription>
